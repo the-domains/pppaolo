@@ -2,21 +2,14 @@
     <channel>
         <title><![CDATA[pppaolo]]></title>
         <description><![CDATA[pppaolo]]></description>
-        <link>https://thegrid.ai/pppaolo/</link>
+        <link>http://github.com/dylang/node-rss</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 26 Oct 2015 16:28:00 GMT</lastBuildDate>
-        <atom:link href="https://thegrid.ai/pppaolo/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>This is my first post : )Paolo</p>]]></description>
-            <link>https://thegrid.ai/pppaolo/8755aad3-dbc9-46e4-af1e-743088b3339f/index.html</link>
-            <guid isPermaLink="false">8755aad3-dbc9-46e4-af1e-743088b3339f</guid>
-            <pubDate>Mon, 26 Oct 2015 16:27:21 GMT</pubDate>
-        </item>
+        <lastBuildDate>Mon, 26 Oct 2015 16:27:17 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Getting Started on The Grid]]></title>
             <description><![CDATA[<article><h1>Getting Started on The Grid</h1><p>Click the pencil icon in the bottom left to read more...</p><img src="https://d33v4339jhl8k0.cloudfront.net/docs/assets/54dd53ebe4b086c0c0966e7a/images/5616ac809033602f2d9baebd/file-t8c0VXJ6mq.gif"></article>]]></description>
-            <link>https://thegrid.ai/pppaolo/getting-started-on-the-grid/index.html</link>
+            <link>undefinedgetting-started-on-the-grid/index.html</link>
             <guid isPermaLink="false">7d05e6fa-5e63-44c4-8ff5-2285093bfdd4</guid>
             <pubDate>Mon, 26 Oct 2015 16:26:31 GMT</pubDate>
         </item>
