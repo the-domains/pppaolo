@@ -1,0 +1,23 @@
+name: pppaolo
+favicon: null
+layout_spectrum: 0.44342996925115585
+typography_spectrum: 0.5316658094525337
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.7072887055110186
+  lightness: 0.06410359614528716
+  saturation: 0.04830486746504903
+  rhythmicContrast: 0.8680211948230863
+purpose: []
